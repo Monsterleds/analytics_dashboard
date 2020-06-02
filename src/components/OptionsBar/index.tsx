@@ -12,7 +12,7 @@ const OptionsBar: React.FC = () => (
     <h1>Logo</h1>
     <OptionBar isSelected>
       <BsFillGrid1X2Fill />
-      <Link to="/dashboard">Dashboard</Link>
+      <Link to="/">Dashboard</Link>
     </OptionBar>
     <OptionBar>
       <IoMdPulse />
